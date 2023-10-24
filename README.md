@@ -1,5 +1,5 @@
 # Simple Math Interpreter
-🧮📐 Just simple math interpreter based of [reverse polish notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation)
+🧮📐 Just simple math interpreter based on [reverse polish notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation)
 ![Interpreter screenshot](./pics/pic1.png)
 
 # Usage
